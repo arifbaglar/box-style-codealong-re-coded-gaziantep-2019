@@ -42,7 +42,13 @@ figcaption {
   background-size: cover;
 }
 .light-fade{
-  
+  background: -moz-linear-gradient(
+  top,
+  #efefef 0%,
+  #ffffff 24%,
+  #ffffff 68%,
+  #dddddd 100%
+);
 }
 
 
